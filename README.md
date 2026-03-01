@@ -228,4 +228,4 @@ translate(my_string)
 'AEAES'
 
 
-In the Seq Objects section we learned how to use DNA, RNA, or protein sequences and how we can code to get complements, the translation, how to edit them, and reverse these sequences. 
+***In the Seq Objects section we learned how to use DNA, RNA, or protein sequences and how we can code to get complements, the translation, how to edit them, and reverse these sequences. 
